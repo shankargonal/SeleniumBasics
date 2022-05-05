@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Testing_SampleLatercandeleteit {
+public class TestingSample {
 
 	public static void main(String[] args) throws Exception {
 		
